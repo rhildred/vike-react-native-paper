@@ -15,7 +15,13 @@ npm create vike@latest --- --react --tailwindcss --hono --cloudflare
 
 ## Vike
 
-This app is ready to start. It's powered by [Vike](https://vike.dev) and [React](https://react.dev/learn).
+This app is ready to start. It's powered by [Vike](https://vike.dev) and [React](https://react.dev/learn). To start cd into the folder and
+
+```bash
+npm install
+npx wrangler types
+npm run dev
+```
 
 ### Plus files
 
